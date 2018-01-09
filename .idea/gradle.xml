@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01优酷菜单" />
+            <option value="$PROJECT_DIR$/02广告条效果-viewpager" />
+            <option value="$PROJECT_DIR$/03下拉框" />
+            <option value="$PROJECT_DIR$/04自定义开关" />
+            <option value="$PROJECT_DIR$/05自定义属性" />
+            <option value="$PROJECT_DIR$/06仿viewpager" />
+            <option value="$PROJECT_DIR$/07联系人快速索引" />
+            <option value="$PROJECT_DIR$/08侧滑菜单" />
+            <option value="$PROJECT_DIR$/09水波纹" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/事件分发小案例" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

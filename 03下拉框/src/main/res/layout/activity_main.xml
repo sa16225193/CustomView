@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.dropdownlist.MainActivity">
+
+    <EditText
+        android:id="@+id/et_input"
+        android:hint="请输入内容..."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingRight="40dp"
+        android:singleLine="true"
+        android:ellipsize="middle"/>
+    <!--
+    android:ellipsize="middle"设置中间内容省略
+    -->
+
+    <ImageView
+        android:id="@+id/iv_down_arrow"
+        android:src="@drawable/down_arrow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@id/et_input"
+        android:layout_alignTop="@id/et_input"
+        android:padding="5dp"/>
+
+</RelativeLayout>
